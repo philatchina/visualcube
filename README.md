@@ -1,3 +1,3 @@
 # visualcube
-VS
-including easyx
+compiler: VS
+graphics libraryB: easyx
